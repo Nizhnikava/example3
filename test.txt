@@ -3,4 +3,6 @@ m2
 m3
 d1
 d2
-m a 1
+d a 1
+d a 2
+m add 1
